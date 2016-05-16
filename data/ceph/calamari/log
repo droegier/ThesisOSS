@@ -1,0 +1,79 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : jcsp// John Spray
+WriteUserLink : Adding a UserLink : GregMeno// Gregory Meno
+WriteUserLink : Adding a UserLink : yanfali// Yan-Fa Li
+WriteUserLink : Adding a UserLink : tserong// Tim Serong
+WriteUserLink : Adding a UserLink : joehandzik// Joe Handzik
+WriteUserLink : Adding a UserLink : ksingh7// karan singh
+WriteUserLink : Adding a UserLink : cannium// can.
+WriteUserLink : Adding a UserLink : kmkanagaraj// Kanagaraj M
+WriteUserLink : Adding a UserLink : zhurongze// Rongze Zhu
+WriteUserLink : Adding a UserLink : alexm// Alex Muntada
+WriteUserLink : Adding a UserLink : dsavineau// Dimitri Savineau
+WriteUserLink : Adding a UserLink : jebrown// Jason Brown
+WriteUserLink : Adding a UserLink : fzylogic// Jeremy Hanmer
+WriteUserLink : Adding a UserLink : ivaxer// John Khvatov
+WriteUserLink : Adding a UserLink : pcarinhas// Philip Carinhas
+WriteUserLink : Adding a UserLink : safiyat// Safiyat Reza
+WriteUserLink : Adding a UserLink : sbadia// Sebastien Badia
+WriteUserLink : Adding a UserLink : minshenglin// Vincent
+WriteUserLink : Adding a UserLink : wyllys66// Wyllys Ingersoll
+WriteUserLink : Adding a UserLink : xanpeng// xan
+WriteUserLink : Adding a UserLink : ghxandsky// Star Guo
+SearchUserLink : We are looking for Zhiteng Huang in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : zhiteng
+WriteUserLink : Adding a UserLink : zhiteng// Zhiteng Huang
+SearchUserLink : We are looking for vagrant in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email root@mira022.front.sepia.ceph.com//root // c2f703ad5aac9efdf51f27b39bfdb775fa903c06
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email root@mira022.front.sepia.ceph.com//root // a475067c7ae8bcefb22a5fd02dc94fe67b37b46a
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress vagrant@precise64.(none)//vagrant // 2c721b6a04d5d664d2a0fd604b8df6225a866781
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress root@mira022.front.sepia.ceph.com//root // 6fc599b6b7b4b666ac3877f2bfd1969f507605ab
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress root@mira022.front.sepia.ceph.com//root // 46dbd81ed889de6c7de129d30ad6bc7ee4dbf7d5
+Commits Finished 48
+Finished 14
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

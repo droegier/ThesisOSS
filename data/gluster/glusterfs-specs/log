@@ -1,0 +1,57 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SearchUserLink : We are looking for Jeff Darcy in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress jdarcy@redhat.com//Jeff Darcy // 9968356e8e0b04fe87213e5ed2795d6afe65bff1
+SearchUserLink : We are looking for Kaleb KEITHLEY in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses kkeithle@redhat.com//kkeithle@redhat.com//Kaleb KEITHLEY//Kaleb S KEITHLEY // 8e2505141b6fdcd4030ae29dd82ab9604b8b6592
+SearchUserLink : We are looking for Gerrit Code Review in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Kaleb KEITHLEY in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress kkeithle@redhat.com//Kaleb KEITHLEY // 2f1d63736f9dabdc2322b2c2af6cc23fc258cfcf
+SearchUserLink : We are looking for Kaleb KEITHLEY in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress kkeithle@redhat.com//Kaleb KEITHLEY // 72956a97dd759c6abd4e849d22ccff0966d7d7ec
+SearchUserLink : We are looking for Kaleb KEITHLEY in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress kkeithle@redhat.com//Kaleb KEITHLEY // 5706601e64d1b010828c5673b3bc7a44819372b3
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress review@dev.gluster.org//Gerrit Code Review // f6055cdb4dedde576ed8ec55a13814a69dceefdc
+SearchUserLink : We are looking for Kaleb KEITHLEY in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress kkeithle@redhat.com//Kaleb KEITHLEY // 0c66ed43912ed13cb3bf3e5899918c9df9a72340
+SearchUserLink : We are looking for Gerrit Code Review in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Kaleb KEITHLEY in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses kkeithle@redhat.com//kkeithle@redhat.com//Kaleb KEITHLEY//Kaleb S KEITHLEY // a15f64598613ca9aae0a373c4c466bf6367c37fd
+SearchUserLink : We are looking for Kaleb KEITHLEY in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress kkeithle@redhat.com//Kaleb KEITHLEY // e10b96cad215c137a729afc9a27c103854435d0e
+SearchUserLink : We are looking for Kaleb KEITHLEY in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress kkeithle@redhat.com//Kaleb KEITHLEY // 799e06265ed29c1d685763cfd86374c8f603fee0
+SearchUserLink : We are looking for Kaleb KEITHLEY in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress kkeithle@redhat.com//Kaleb KEITHLEY // 992a7405fac8efd31181ce1cdae124898f454ffd
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress review@dev.gluster.org//Gerrit Code Review // 84dd6aa9ab1ac1fe9e8e8afad0accadc0163b114
+SearchUserLink : We are looking for Kaleb KEITHLEY in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Gerrit Code Review in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress kkeithle@redhat.com//Kaleb KEITHLEY // 33f729070145b9cbe19cf808b302fc3c502ee023
+SearchUserLink : We are looking for Jeff Darcy in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress jdarcy@redhat.com//Jeff Darcy // 89e3c74cf3697e1afec5d7bd775d9e29f673d75e
+SearchUserLink : We are looking for Jeff Darcy in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress jdarcy@redhat.com//Jeff Darcy // fe86987c1c6d85e7d9e30f84f81401eeaf3b1530
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress review@dev.gluster.org//Gerrit Code Review // 7e6317a03725f211e50eaa7df679a8bab0fffbce
+Commits Finished 2
+Finished 1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

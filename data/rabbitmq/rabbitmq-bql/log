@@ -1,0 +1,76 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : paulj// Paul Jones
+WriteUserLink : Adding a UserLink : 0x6e6562// Ben Hood
+WriteUserLink : Adding a UserLink : tonyg// Tony Garnock-Jones
+SearchUserLink : We are looking for Marek Majkowski in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses marek@rabbitmq.com//marek@rabbitmq.com//Marek Majkowski//Marek Majkowski // 2b0b1b343e136516ba96d5050309bcb4e7d342e6
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 38b70e7ca5ca3cb2ca84ef64466215c520159654
+SearchUserLink : We are looking for Alexandru Scvortov in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses alexandru@rabbitmq.com//alexandru@rabbitmq.com//Alexandru Scvortov//Alexandru Scvortov // 481e0b6a220370a2cef0b5b084a33276256d68eb
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 5455554d87044af6240a7bddca81ed04c34587cc
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 056802695dc4cd28dfc66b40e9751d016b3ffe37
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // c1328ab1d8b78fb7601258a6407f72b1ca70d319
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 44ea7f866f275ee2c12c73502410d2abcb5b751b
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // ffd98e6c2d44c89e90d337857fea06e76b55b91d
+SearchUserLink : We are looking for Alexandru Scvortov in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // f57deba3caa94cb3333d61a1a9247416b1244fe1
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses alexandru@rabbitmq.com//alexandru@rabbitmq.com//Alexandru Scvortov//Alexandru Scvortov // 423e5e625dba1ad9b7029da39784651b317e1409
+SearchUserLink : We are looking for Marek Majkowski in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses majek@lshift.net//majek@lshift.net//Marek Majkowski//Marek Majkowski // 975807a95e1ebab4849c0fdaeb1e61cf11a41323
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 35338b50fcdfe107deabf1794d4f34083554220d
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Marek Majkowski in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // c1398af0a898fca84f4a994788a9140be8e7efb2
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses majek@lshift.net//majek@lshift.net//Marek Majkowski//Marek Majkowski // 54afb4c62523614361e59262fbeb519c6698474a
+SearchUserLink : We are looking for Marek Majkowski in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses majek@lshift.net//majek@lshift.net//Marek Majkowski//Marek Majkowski // 553e878c0ce48a6c6300f132d29ce9d29be3c6c3
+Commits Finished 4
+Finished 0
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

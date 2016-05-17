@@ -1,0 +1,116 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : pavel-drobushevich// Pavel Drobushevich
+WriteUserLink : Adding a UserLink : elimisteve// Steven Phillips
+WriteUserLink : Adding a UserLink : ikulis// Szymon Łukaszczyk
+WriteUserLink : Adding a UserLink : keithelder// Keith Elder
+WriteUserLink : Adding a UserLink : djui// Uwe Dauernheim
+WriteUserLink : Adding a UserLink : andreho// Andre Hofmann
+WriteUserLink : Adding a UserLink : iSpoony// imSpoony
+WriteUserLink : Adding a UserLink : botanicus// James C Russell
+WriteUserLink : Adding a UserLink : chimdiadi// Chimdi Azubuike
+WriteUserLink : Adding a UserLink : xiankai// KJ
+WriteUserLink : Adding a UserLink : umisama// umisama @ Takaaki IBARAKI
+WriteUserLink : Adding a UserLink : jeffweiss// Jeff Weiss
+WriteUserLink : Adding a UserLink : seyfer// Oleg Abrazhaev
+WriteUserLink : Adding a UserLink : pilwon// Pilwon Huh
+WriteUserLink : Adding a UserLink : Lanzaa// Colin B.
+WriteUserLink : Adding a UserLink : janimo// Jani Monoses
+WriteUserLink : Adding a UserLink : cyga// Alex Sudakov
+WriteUserLink : Adding a UserLink : Ferada// Olof-Joachim Frahm
+WriteUserLink : Adding a UserLink : adrienbrault// Adrien Brault
+WriteUserLink : Adding a UserLink : djhojd// Claudiu Hojda
+WriteUserLink : Adding a UserLink : HowardLander// Howard Lander
+WriteUserLink : Adding a UserLink : liddellj// Jim Liddell
+WriteUserLink : Adding a UserLink : postalservice14// John Kelly
+WriteUserLink : Adding a UserLink : jgpawletko// Joseph Pawletko
+WriteUserLink : Adding a UserLink : majidgolshadi// Majid Golshadi
+WriteUserLink : Adding a UserLink : olsh// Oleg Shevchenko
+SearchUserLink : We are looking for Kyle Spearrin in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : kspearrin
+WriteUserLink : Adding a UserLink : kspearrin// Kyle Spearrin
+SearchUserLink : We are looking for Neale Swinnerton in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : sw1nn
+WriteUserLink : Adding a UserLink : sw1nn// Neale Swinnerton
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // ad64c52603030040ce369566576c1bc3841420ba
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress luki@luki-workdesktop.(none)//luki // 36afdae6a650db48fc2a93884767c95a32d660ae
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // e675ebe5ad6b14ee6cb41d7899f1644eab288c29
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // 277f3e14783c6c84ceaf8ad024959ef53efa9c7c
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // 401e22e9e61edbcad3537ac7f28f421b5095d673
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // 7dd340c9b90570c20567c920fce66e3a7f2c55f5
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann//Ann // 8f4b1edb82e65998b99592c59ed3e7d62a358e3f
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // a16276e849058122e9c163b11d80ba1a3acfca2c
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // ca9f11adfdaf2e42859fc63995bda54bd34b1ceb
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann//Ann // 619067197f321ba3ec34f52e1e6acd3c2bbd062c
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann//Ann // b579201da05942e65a63de547713597b8f703d7c
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // ccb1794ab4ed6e51a417a08d37e7e1555aba95fd
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // 9736b95b0bf5017e89cec4db6f0dd49368fdd02a
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // 70dd5b1acb064d4176c4cce52175210dcb6e739e
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // 228b850a7cf5cf05bce3a758218e23f21789a6d2
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // f66c4dd54d21b10ededd582bd3fb98adb399c8d5
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // 53f47dad552c98c11179743a1de37be797025fd6
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // a9f76e247f193c9bc4e15c72927f0730d46c8246
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // 1ae0ea29cf5b6faacc014f14a351cc1f0e634a6f
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // aae2c599852f5228f4ec2397533f65ad101593db
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // 4f084556ea2568527df4cb833d512cb5b2d38db8
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Ann Witbrock in GitHub... Now we go through the forks.
+WriteUserLink : Adding a UserLink : ruby-amqp// Ann Witbrock
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // e43e9333ffb7b61dd89d2ca65e4429269ffd194f
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann Witbrock//Ann Witbrock // d8ab36c82a81e85ec0dc50b1bc6fd7a05d17e0e0
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann//Ann // 19af0ce24bf5b56aff2c683e14bbf4198cef2f5b
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann//Ann // ffad5a9cd735ef25fccb8adde3a48fd7b3013939
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann//Ann // 4b100cef97424c27c56b99960f90dee0b303dbca
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann//Ann // 6b1e11457536c7e9e3624ab65bd276cfd072c37d
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses awitbrock@vmware.com//awitbrock@vmware.com//Ann//Ann // 914f22cd21a16671811834430e6ec25101fc9fcb
+Commits Finished 23
+Finished 4
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

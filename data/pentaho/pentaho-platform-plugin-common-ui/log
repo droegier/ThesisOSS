@@ -1,0 +1,11 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : mdamour1976// Michael D'Amour
+USERLINK ERROR : CONFLICT DETECTED IN USERS pmalves// Pedro Alves
+USERLINK ERROR : CONFLICT DETECTED IN USERS CodeOnCoffee// Nick Baker
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress alex@epbyminw2597t1.minsk.epam.com//alex // cff9fe5a894554712cd7ab1654040bb347701bd3
+Commits Finished 69
+Finished 26
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

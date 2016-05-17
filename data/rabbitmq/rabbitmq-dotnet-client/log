@@ -1,0 +1,775 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : ngbrown// Nathan Brown
+WriteUserLink : Adding a UserLink : joefitzgerald// Joe Fitzgerald
+WriteUserLink : Adding a UserLink : essiene// Essien Ita Essien
+WriteUserLink : Adding a UserLink : GSerjo// Sergey Morenko
+WriteUserLink : Adding a UserLink : Pliner// Yury Pliner
+WriteUserLink : Adding a UserLink : cH40z-Lord// Kai Eichinger
+WriteUserLink : Adding a UserLink : david-poirier// David Poirier
+WriteUserLink : Adding a UserLink : micdenny// Michael Denny
+WriteUserLink : Adding a UserLink : jkff// Eugene Kirpichov
+WriteUserLink : Adding a UserLink : idursun// ibrahim dursun
+SearchUserLink : We are looking for Bojan Resnik in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : resnikb
+WriteUserLink : Adding a UserLink : resnikb// Bojan Resnik
+SearchUserLink : We are looking for Christoph Elpermann in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+WriteUserLink : Adding a UserLink : celper// Christoph Elpermann
+WriteUserLink : Adding a UserLink : jimmym715// Jim Mallmann
+SearchUserLink : We are looking for Philip Garrett in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : kingpong
+WriteUserLink : Adding a UserLink : kingpong// Philip Garrett
+SearchUserLink : We are looking for Marek Majkowski in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses marek@rabbitmq.com//marek@rabbitmq.com//Marek Majkowski//Marek Majkowski // 7ecb0c1c8380896269b22603355f70e8f551ac5a
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // e8cb51728b5cb35cfb849b87093e4113ef885bc6
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 5134ab209098a3f3570e582b00c48df73196ce8a
+SearchUserLink : We are looking for Marek Majkowski in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses marek@rabbitmq.com//marek@rabbitmq.com//Marek Majkowski//Marek Majkowski // 23cee4f1a9bf0a850d904bfada285e7dbd81d0d4
+SearchUserLink : We are looking for Marek Majkowski in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Marek Majkowski in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Rob Harrop in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses marek@rabbitmq.com//marek@rabbitmq.com//Marek Majkowski//Marek Majkowski // 8568533c1c1beb6834c956ad3c556266cbef6907
+WriteUserLink : Adding a UserLink : jkff// Marek Majkowski
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses rob@rabbitmq.com//rob@rabbitmq.com//Rob Harrop//Rob Harrop // cc5afb6e0c5d6fd9a9df67e776d3c5aa367f41ba
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // f1204b5becd977ce43e2ff130c0a6e954da8cf41
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 161b7fcf18a1ca1344d2837e611227358e3500ea
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Jerry Kuch in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 3b234b23f21ec148fa93cc7ef7a4a4b3f91548a2
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses jerryk@vmware.com//jerryk@vmware.com//Jerry Kuch//Jerry Kuch // b64a48b514cee1ac0e0b4eb96064c52ac3df4af0
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 937a4416769752b3ec96e40b336a9d2191419a45
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // d276efd570f729ae16bbb33ad883b6c055baed2c
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 02ab7b349c1251a18ff959f365646c7b65c73ce4
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 109d5ce27061e9b2cf380bd4fe65ea1f42ef9103
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 7e8aec7677220fa8c7b4cfcd4902474797505e9d
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 66652d71cffe1c08cc1b00ebceb3ae43838c7991
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 517b41c3b1fa7ce4ee4d1a682e4624b679cf920d
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // f7caa419878407c0566b3385ff5a5e5fa46df21f
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 0a4c9c58a2bdfe4dd5acd719cb32b07cc7b1bc6e
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 1667f692e4ff10c4ce38e86b3e03a953e387802f
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 4920610af5cbd730a0decd633068f7779efa8c97
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // b5b2e627dc6fcb0266c3ca2f7647827144e28a72
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // ada5630680db1934eb468fb605652cf82f7a8f00
+SearchUserLink : We are looking for Rob Harrop in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses rob@rabbitmq.com//rob@rabbitmq.com//Rob Harrop//Rob Harrop // 7dc7740267faa17a0cbaac2d0a17b20a2d024591
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 6fb6891b4e00af61d919a1e4ee9ff2f23ae38c91
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // a4e03ca23e62eb7b72eb19ad26302a5cf759b939
+SearchUserLink : We are looking for Rob Harrop in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Rob Harrop in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses rob@rabbitmq.com//rob@rabbitmq.com//Rob Harrop//Rob Harrop // 6533a90425e0f484e2ed43be0ef8cb3f3b46dffd
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses rob@rabbitmq.com//rob@rabbitmq.com//Rob Harrop//Rob Harrop // 9740cdfc690daa0624c7e74a6bc2845924e2ee15
+SearchUserLink : We are looking for Rob Harrop in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses rob@rabbitmq.com//rob@rabbitmq.com//Rob Harrop//Rob Harrop // f9dee483da77e06ea1c53f90223e843af1d6d46a
+SearchUserLink : We are looking for Rob Harrop in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 86a2c2cf13087476d6d41a7d24d5ff3a343d25e9
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Rob Harrop in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses rob@rabbitmq.com//rob@rabbitmq.com//Rob Harrop//Rob Harrop // fb27080c7759be16a7f1080fd6cdbea964aabd22
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // f848b757d29b7b187f32f8d31417592d382b5d3e
+SearchUserLink : We are looking for Rob Harrop in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses rob@rabbitmq.com//rob@rabbitmq.com//Rob Harrop//Rob Harrop // 66c537289d96567fcbf8f8c418a40af78b961a03
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses rob@rabbitmq.com//rob@rabbitmq.com//Rob Harrop//Rob Harrop // b4a01a0477d2ee2c9d55111b9577d5e1dbbca49a
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 824437ca25992189930aaef929263f8e222be0b3
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // a6d026284de2e25dc71e79f0bcc0d29389313bbe
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // c312c08429218e0ed996fe20a2b13bae19c3021b
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 5c92fe16c0f5e0630a45c19d55cd2f563b7283f4
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // ea145551a836521025bf89ddfe58d5697ddc88ee
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 7c72d15e6b84387b82b8f9bf88b57efbc81be079
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 006a954e1b741047e88fef755c5dd0b5cb6fa281
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 5a2c068efbd82afa1904080ef493722dab85a35d
+SearchUserLink : We are looking for Vlad Alexandru Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@rabbitmq.com//vlad@rabbitmq.com//Vlad Alexandru Ionescu//Vlad Alexandru Ionescu // 92687c910516012272fb1768e8f598dc835edd84
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // d42c17bf82b762ed2f8fb9b8e6257754340fbf17
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // c90d861687cd66caa62e7e2f78005be6b4ca55ed
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // ba10eda639ffc25a7c64fe78915c3829c97f4083
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 33693df71000756e61148db42e298139452718d3
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // c465a09ded2947f30ae0beb606e703b266eff596
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 1c0a57305ea6ffb020ae843bd430b31821dcd9ed
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // 5d69a0ef00981da364d979e1f759ebab51ab8706
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // d5230dcc436e05601c11921cfe28d556e1129f82
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 49c6ae4a953f0ed1ebd80de5764d128d49c62b90
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // da62cc07da79f3a066b45c9bdefc774e263f8467
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 11bba62bdc445e385a8a0812bc53ea7995d46e55
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // bb0dd195a67548f6fccc66a0f0f64f367c7c74e3
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 99900597bdb5eb40e15f270b126685d024f9791b
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // f3dbcef3f38a1d6395a9f03cdb8d00022b6cd1d0
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 1a1e3ab179502e79df774cf116548d51d9145088
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // c2106f91632cd0fcec19593455f05181e249ff7a
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 386dfb0274cb30b7a442cbb9089ab1f49ea0dd9a
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 512e34e83ad097786b8ad25ba321f042ba87f9a9
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 91968b99164e11abbc2fb31708420c00ac82f7ce
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 5ebb15dacc48b150d36c7276355dd787a2e5107b
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // a4681108c8e2b8e5e8e0564849f6c6cc0f560f51
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 349c5f09e180420e956878d662ce70e32bc794ec
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@rabbitmq.com//matthew@rabbitmq.com//Matthew Sackman//Matthew Sackman // 05d7c294893ea4ca162246f359580ff3afde4c07
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 19483b64a4c0e358230932488deacb9ba7935f1c
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 2b09bdd5a079c02dfb505c6a04aeaf7ff077a7a0
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // e897e6086d7f051765d253b114c099290817c212
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 58eb2d15168092d757ff16afd7b603d7c189020a
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 727793e7bee5fd78dfdbe227417be4d90121566e
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 90332e112db5ec96e28258f2f522f1b4488440ab
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // a2ad6a2d35cd5dbc7d51ed6c11364d678f503f6d
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 6f600407a0b0d78762fc3647709cf0ad4e2df47a
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 46766aab59102a47b76c4d38cbfe040ae27ec98c
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 43c142910fd15b5cdbfc58d1bd6f5536d7963015
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 336112d3e1a11e9d9b6eb5e1a50f8ea6d7af05ec
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // b8456321840780810acb216a96a164bf05bec82b
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // f11e6418aa02c984ddf7d4523195cfd733de327d
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // f595de0ffb9511232be1c1da2121b7a8d3eec8a8
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 6f70e911f8e320719985246a870c74c94e2d187c
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 68054f884f2bad0445304e7c254ed54518ff01aa
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // ac100d97a05aed1d5e3fe5f70ea96ee1266f54e6
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 7514bfcdd909fd04d7915d2860d201438eb39a14
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // d9ebe7c6ad192b38fa365401275837bd1fb82123
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 01d7155a7f9e732a1b5ccace6438e9379bc9f6af
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // b390a9c4fcc3b9ac2f8dae68434e77bf6bb93150
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // 2a9d0217679e3632fd16c7a725c0314e0eb23709
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 3a1b632b3c153f4a71b165b7204e987e4675f400
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 7118742e66ab783dbdac6519a8996bc04644359b
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 51a9dbde12162f2d0bf75d5503db08f33794e3f0
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // cdd870239467a66216eab94637263d584bf69ec5
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 60872e7855ded71017bf7ee64ef0ead6caf8f6d5
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // e5779dcd6ae3013ffa89902a9eda0e0169a60c3a
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // bd6a1c35640cb603b891c591d88534b156099c34
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // dfa415d4612be90812135347e27a18c3b7c988c1
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // aea9bbb619b4653077aeca6a992f6e2aa9f17bd2
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // bf25f566313fbdc7ed5421392250420ac8c73443
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // c1451efd8b1c4fa439912bd1cf098c653ef36445
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 0794e8481bae653a5b397268308273da3349eacf
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // daf6e7ae0759e0c1aa61102ea3fc4adf9436ef56
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 74fb1695baadb03574f12e11775ccb00078163de
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 7da5b0f15329e7fda8fb9cd8039b08c43df66d5e
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // d147670dfca70b1a66ec2d3650f7a62dac596cda
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // b9894853514dfaa22d22e290327b6bf2d4f44f07
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // df86c6d9147502be05e3a1db3fa11c19c5bfc5ce
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 7fa6c1e7f41df54a237e12c9de32a2fe16e8fbb5
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 4364545226462b92edadc68f817159c51985ab82
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 1bfcdd409b10f1542e159b267f9b2c0fddc78f5a
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // b5ed19cb08f471ddba01500d908079cf89548e0d
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 4697f4be656725de4613c7bb6b67f9f2dec2dd29
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 7517fc3d8c7e3edb1276425daf2d48a9c9f35177
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 8815a59d237af5e28d26837b278dcd8407ce92dd
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 81888d4eb2124795bf96584e6d1a1ba168c69817
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 154531991bdd8dc97a4b03036fb4526eba6fac38
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 013132cb0c09556cf7e8af54b0c30b630115217b
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // b58d6a8af380d9af74ed7614ba66bb297ddfa3b9
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 425372a04a6dbeb59cb11223dc8e2e7669446a2e
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // d2fdef3116d1020dc19421f10fd90c007a85c64e
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 2f560bf864e121289fd22a476743456c44f85ca4
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // c19839af98dd260f075f30ce31caa861ee21eed2
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 5638066091f8469ba0fe9a3ddf3113905d7b516e
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 0412a6343d6774261a32e2fc5d0366db9af68b81
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 4daec4f29afdd8128bd858112b94dbc32477ac6f
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 1e11502bff8bc84dbe77546573514e5071f65e37
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 48eab7caa17567a46ea4c4e5fc5f820008b2b7aa
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 6611dcc2790848296d948d0461b83fbab136594b
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // e40cfe946f23f68743bace071eecbaa23b53a0f2
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // a1131ef71ad79f292a10eb5e2649b799e62bb1e1
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 38eb747530c2a3cf7732de272a6c1bcd05e895d1
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // ef6765e0e25a714267115ead9b58571661a03311
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for David R. MacIver in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // e33d89d10cdac5fc6149674db6e60f8f9f7597ef
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses david.maciver@lshift.net//david.maciver@lshift.net//David R. MacIver//David R. MacIver // 13aa2086da22cf09bfa4a70b7273eb1f95e0b1f6
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 38a15b082a8f1c385a8bd924aa02810e4a722f25
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 984f24a1962a247f091614e88ac87f37bde22ded
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for tonyg@shortstop-vista.localdomain in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses tonyg@shortstop-vista.localdomain//tonyg@shortstop-vista.localdomain//tonyg@shortstop-vista.localdomain//tonyg@shortstop-vista.localdomain // a704c3217287aef2938e8205bb46743f39f8521a
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // a5d30b4bed545e5d29e9b45b7e0e41b316861573
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // a4e23e097643925d3d8e952ceb562590ffe002f5
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // e0f60b606d7884079a6d271d9749348ad5beabb1
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 66ce63db2968fbfb85d012c2e6942ee99dd60ecc
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 825399b8616561842529bc38187f3821147cfad9
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 5718a09ebf7d08ebfc58acf660f5078ae64eef9d
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 095790ede44bc2795f1c88d2d0a97ddc4ab39459
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 163b753efcbb6837d85ce51f23736db1fd2e61b8
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // a627f70a06ace40fbcf757f708fcd947a1bcba29
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // afb29ac0c6c5d5dbc9dee40d808c4e00e156aa50
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // af77766ed4d985fdac7a885b531d918ec95e9923
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // e991e6de575663163c0ec822c6d454ab2bc85e34
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // 8689040b3a46eb1143b0be49295887a43b3760f0
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 3077d964c738ae3ce06b930db3fdce77f68b85f7
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // 381abcfeb4566527fdd6996c41ba61b2cdb69f11
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 972f1500eda1f685cf9ccd21f4ccfa0eeb56945a
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 122056805ea9dd5810528b179645a29464b28ae2
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // fb5a754446da81bd3a1c9a4a3ca186663f609541
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // fd6c3b77f98cab75d8007dd38957f90fdff35a57
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 27c5a8019e3eb0d45080095150ce633c80639cd4
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // a4eef4d8f321d3c1edfa131832dd62bc3be73786
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 66e6cfbdb8497a78a71e68acd2f9cd64a7f1ec66
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 51559b1ae5f4b2c8d3776f4eb30488f98a0e8119
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 3e0c2469eaef168d026943625f13dc50cc33bd37
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 3228645e91f9620f86df9e57016c6a40aa07cddf
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 3e7dfd50caec200ae9d206ed0d48f38d2e0fe5b6
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 98e103ad9232be99a753ff684e495ef10134327f
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 7674fd29680c763f90551e06437b1b7d8cbba009
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 1e0b3f51fdf806899d0d3059a3b9720f2aac6d85
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // a713fc5f7ee3fd793c8485f47caf03ac092f7833
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // 8f2b9cddaf3387d2146516c09d6fbc82203e3b54
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 2f0503adfe520a414b7b4ba9ecb9c949a10b60a2
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // 65f3f796a052cbeec91e588d3e24fb832a872362
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // e3d3695c723442e2f987319e63b9f3343c447368
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 76a65b247920f4f3c8733d38bac6ac0e91f8e15b
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // 7ee3a3a39609c897da61f4d0bd88bbaea6329f5a
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // b8b4f96e20fe93c1968261d9e82ca8338df57798
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // 3e7327431efe03a0216670d2732fac118b1e7747
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 6011206d8836ccb63cd89585ce527804aabdd9f1
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 40d993725139c7d2746d89df213cfb7762a3931b
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 79ffd2963cdbd2aa7b7236048e64ab718f21cae8
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 3de6271ce5d3f5934e996c026440c0864d78aecf
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 36516dc760073cc62f9557cdf74b496fc6625139
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // ff8834af992d0f7ad80e54318a1346e8dda939da
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // b4750c3a18bc89bc8ab4dfd50b6b357519d55bed
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 42838c702c764e9a557f07dacf80ec908f6e8d37
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 1a56361f05b758baada394a081a8f8bf507d1b26
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // ccd537e3ce8bbfef39c2273eb0f13fbca728cca8
+SearchUserLink : We are looking for Emile Joubert in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Matthew Sackman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses emile@lshift.net//emile@lshift.net//Emile Joubert//Emile Joubert // e2546622e2299eb1ffc56aeba64a7a94c769e874
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 538334383f0bb7927270e6989c0ced60844128af
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses matthew@lshift.net//matthew@lshift.net//Matthew Sackman//Matthew Sackman // a740f80acbfe1cca369d6a6b78791230d9d07c58
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 72cfe81de471a471b33ae9d076989ee9bc8cc4ac
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 61c4687a23cc50beee004f7a38542d6888e57f0e
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // ca87c7173b4a3639e76f1ac55446cb06a4f96b66
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 6f350414152f654b6cc5c4979f2ceb104f188afc
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 1c7d2f86172663a7dda24b745675630ecfd376af
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // de429e7cde6f28f9d5f10e39cd383f519a93a454
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 4a789abacd8114d087f40c0a3d9f36517e20879c
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 181496b8374242a041f6dfbd5dfdfbf22cba9aa4
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 6f08eb00862d3b2ba6094acb6ccd8d9c9bcbe374
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // cee1311f522ad7d38294dc2be4f9a91af32972c0
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 1a87666a20db660d631ac3f0452289861f0595c9
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 10fc21c8e0854f299d06be73ec5fdd509dd503f5
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 0c35d23f4da98b895b8d80e5a56716187de2e77c
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 9dace94a579668e398e873609084c1ffbde03bec
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // edcaf97820106de032c3aaf78031b9f2b88f6ca0
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Vlad Ionescu in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 31e0bdb5345a296123ef377cc1994f32d29ced69
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 32f36ad2a219781d9dd07fabc27e309e84f4fe62
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // feb598d77fa85fe213444384d7174c6dc9fea7db
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vlad@lshift.net//vlad@lshift.net//Vlad Ionescu//Vlad Ionescu // 1f8931191638ed115b21d26937f00ce1f34a64b7
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // e6e2d19b0e0c27611fe5f95168467def8a1e6b06
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // b2ad4ef5520db5b0636d96bf9fee2d20dbe3f956
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 4b9ddc50823d5ef7b2571970d411ac80a95af47f
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 5170d5ccc6bb8bbaf8b71f3fe4966262379cc508
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 9c4c25c93033efb39cd0a41f2370a74683024033
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // e3de6af82d846614db3c014975c557ce4f758fdb
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 3e506dc5272802c006e0b527079c1df0a4d6b739
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // e71cc1c1fa0fb63bee8894553a78476ebd90fb86
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // b35a6d21f07943e82d9409a7aebac8ef58d991f1
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 4826cac4c18f89f7c778bd053927d995fb332de2
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // eabcff6931da6247665830da699ce0ebbf315eb9
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // d5bd316c5cec0cac238c1b3fb9ce6833fe7559cc
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 366d9e7017afedd81ffd1176c00fba4768bf624e
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 115bdb4aac9a3fb2baece0f8fce6047cbc80ea66
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 52668d1cd8716b9c2460679433a03586027b11aa
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 527248f05905db86c97449c1a70baa2f672844de
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 1d7da2da3a9abc34983a57708b011e8e7ec4f710
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 450aa526b958d75d884cc89458fed706641103c2
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // ee82ad5df748024d32cc0a8d5d53366c3122b0aa
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // ff35ae9e5b433b1019b898e82114df42966cc9bf
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // e03e3a9c13bd5cc90d068277765187bea99ae842
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // a23ed082baba54a51543a197c698496658cb8266
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // fb8c2aaaf66861878de6732db5ea108533cd14d2
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // d7be24d29632168545eae77f5a21c904e8425c94
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 99022cc1172fdfe93320f85b060855a93dcbb2a6
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 5d15f901748106ec83516fed81f1e79e3be51f65
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // cbd63c76fbfc91555efaf1c22477df13cc6ffdb7
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // ff4d2bccad4ea8527279efc0d5444e6323e794e8
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 487e76e2e23639dece054f5d598532d1ba3918a3
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // c8d1042ebcee5e647eb7bf863b9e8dbe95d6cf6b
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 646f8d6537b54e96144767933728e1e8c190398c
+SearchUserLink : We are looking for Hubert Plociniczak in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hubert@lshift.net//hubert@lshift.net//Hubert Plociniczak//Hubert Plociniczak // 05e6aa5419411429c0d7bf666145cc276d33812f
+Commits Finished 57
+Finished 6
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

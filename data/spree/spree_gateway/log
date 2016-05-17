@@ -1,0 +1,54 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : divout// Ivan Kotelnikov
+WriteUserLink : Adding a UserLink : jenius// Jeff Escalante
+WriteUserLink : Adding a UserLink : yanicklandry// Yanick Landry
+WriteUserLink : Adding a UserLink : twistedjoe// Joé Dupuis
+WriteUserLink : Adding a UserLink : brianpattison// Brian Pattison
+WriteUserLink : Adding a UserLink : kball// Kevin Ball
+WriteUserLink : Adding a UserLink : adaddeo// Anthony D'Addeo
+WriteUserLink : Adding a UserLink : kieranj// Kieran Johnson
+WriteUserLink : Adding a UserLink : jfields// Justin Fields
+WriteUserLink : Adding a UserLink : kaspernj// Kasper Johansen
+WriteUserLink : Adding a UserLink : polkabit// Mari Ohtake
+WriteUserLink : Adding a UserLink : msupko// Matt Supko
+WriteUserLink : Adding a UserLink : uri// Uri Gorelik
+WriteUserLink : Adding a UserLink : amasses// Matthew Savage
+WriteUserLink : Adding a UserLink : j-mcnally// Justin McNally
+WriteUserLink : Adding a UserLink : szajbus// Michał Szajbe
+WriteUserLink : Adding a UserLink : nigelr// Nigel Rausch
+WriteUserLink : Adding a UserLink : omh// Ole Morten Halvorsen
+WriteUserLink : Adding a UserLink : pedropaf// Pedro Alonso
+WriteUserLink : Adding a UserLink : philbattos// Phil Battos
+WriteUserLink : Adding a UserLink : bencevans// Ben Evans
+WriteUserLink : Adding a UserLink : phillcampbell// Phill Campbell
+WriteUserLink : Adding a UserLink : haibt// Hai Bui
+WriteUserLink : Adding a UserLink : scudco// Adam Anderson
+WriteUserLink : Adding a UserLink : auser// Ari
+WriteUserLink : Adding a UserLink : dholdren// Dean Holdren
+WriteUserLink : Adding a UserLink : scottswezey// Scott
+WriteUserLink : Adding a UserLink : cleverlemming// A Nonymous
+WriteUserLink : Adding a UserLink : sbasir// Sofy Basir
+WriteUserLink : Adding a UserLink : ramkalari// Sriram
+SearchUserLink : We are looking for Brandon Bradley in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : blbradley
+WriteUserLink : Adding a UserLink : blbradley// Brandon Bradley
+SearchUserLink : We are looking for James Ottaway in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Amed Rodriguez in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : amedrz
+WriteUserLink : Adding a UserLink : amedrz// Amed Rodriguez
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress james@ottaway.mp//James Ottaway // 908c7b4147bca7472c93d2ea96d640fb78ff0c7d
+SearchUserLink : We are looking for Sean Harper in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress =//Sean Harper // c186cac0083c1666eaab3a543b95a674737f6b16
+Commits Finished 9
+Finished 9
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

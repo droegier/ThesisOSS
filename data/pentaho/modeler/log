@@ -1,0 +1,161 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+USERLINK ERROR : CONFLICT DETECTED IN USERS CodeOnCoffee// Nick Baker
+WriteUserLink : Adding a UserLink : mdamour1976// Michael D'Amour
+WriteUserLink : Adding a UserLink : dcleao// Duarte Cunha Leão
+WriteUserLink : Adding a UserLink : plagoa// Paulo Lagoá
+SearchUserLink : We are looking for U-PENTAHO\pminutillo in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress pminutillo@r90gvdnv.pentaho.com//U-PENTAHO\pminutillo // 93e09de2e64bd5b54b690f5906c828a17f945117
+SearchUserLink : We are looking for U-PENTAHO\pminutillo in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress pminutillo@r90gvdnv.pentaho.com//U-PENTAHO\pminutillo // fafc22d257bf6010668d7467b39df919e0f1904c
+SearchUserLink : We are looking for krivera in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : krivera-pentaho
+WriteUserLink : Adding a UserLink : krivera-pentaho// krivera
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // dc5ca40bae7b49405cf27b2cf5a9d942ddd5307d
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 3dac9963c649e410b2d17c538969534944c90488
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 718b7065db567f06a9a4fc1d075effcaf9851856
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 4076ff931e68418a0cebeafd6fc28b413a2ec476
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // fb8512c614545257fc321af590aa72ac01709a30
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 0d1eac51d0322416b0360073667eafce6dbcc14d
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // c686da23edeee0d48cdb13891730a5efb2f05526
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // c37fd2b2b145e3bb145d38dcc2b97c1d6dc95600
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 69e98e1282409b9fb557ceb0fdf3b8687d0d89c9
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 7ee1eb139db33d14716e3ac566c92cfb94cbc8c9
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 93b1230c16aadd372af478989eda69a25dd42501
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for wgorman in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses wgorman@5d404267-db13-0410-8476-b1f6b398e63a//wgorman@5d404267-db13-0410-8476-b1f6b398e63a//wgorman//wgorman // 516f907b458ea7a7fe34237c107b5e77d8b91240
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 995f69ba9e417a29e9a5e5913bc44cbca6aa371e
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 7bbc7ed4bd255feb3cb5a653717f1b80833fa087
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // eea70607240fd46cbc893a1d91600d8ad09c522c
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 6b490ec0b7644a02f768d8e3a5e134cbca2c6e44
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for wgorman in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 85e86230ba4345fce45c5ec93ec332cc5a6a548e
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses wgorman@5d404267-db13-0410-8476-b1f6b398e63a//wgorman@5d404267-db13-0410-8476-b1f6b398e63a//wgorman//wgorman // f3800f71c50e26862938dfadd5379548d42f6faf
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 846f136d13e5b7b25d460ae1f3c2d38f76495b83
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 37c6333751a51d9970fdbfe3a44dc83cea46628e
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 5947a25f985f2c488751c012d4cf267104fe1693
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // c8d0d66d960a8339671425193ef469171090b09b
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // bb1a4909eea815bffa69bece14826225f61c0cff
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 60c6f65fecfaee070ce94fbf7b3784c0fb1a3dcc
+SearchUserLink : We are looking for wgorman in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for jdixon in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses wgorman@5d404267-db13-0410-8476-b1f6b398e63a//wgorman@5d404267-db13-0410-8476-b1f6b398e63a//wgorman//wgorman // f748a7230d38078a7ae15b658b6ac1c9feb318c2
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 29877c8dad9815a05adfe62a1d49888a718d68f3
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses jdixon@5d404267-db13-0410-8476-b1f6b398e63a//jdixon@5d404267-db13-0410-8476-b1f6b398e63a//jdixon//jdixon // b167be7827800ecef7f68b46f22196e4dbd93350
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for lcheng in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses lcheng@5d404267-db13-0410-8476-b1f6b398e63a//lcheng@5d404267-db13-0410-8476-b1f6b398e63a//lcheng//lcheng // 04ef0ff1dd79e9066cb941bf41544657cd1974dc
+SearchUserLink : We are looking for lcheng in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses lcheng@5d404267-db13-0410-8476-b1f6b398e63a//lcheng@5d404267-db13-0410-8476-b1f6b398e63a//lcheng//lcheng // dfe44c35d71a0b9e3b79c5505f1cceec77bdc052
+SearchUserLink : We are looking for wseyler in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 95ebb7d11fc4a9079f532cfa9655d367d3b05eb1
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses wseyler@5d404267-db13-0410-8476-b1f6b398e63a//wseyler@5d404267-db13-0410-8476-b1f6b398e63a//wseyler//wseyler // 1e4886afa8c18458e8c4d8671c634bcd46e065b5
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 793670520f04c2d3c9c441f9ae91d79107172ac7
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // a20d438a6983e2f8e8b6bad775ea031e16a35f4b
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 04fdf0e866e9668c23886f1b069019659a5c90f1
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // f8c3a18390046fa036a11a8a4da4ce92f0c34065
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 04e021f73e5f087d635c800b491bd672b979f61c
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 816ae1ee7220153ca4d9ba2a7de62fdc7dc37e0f
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 04da9ff5eb8386cc552f2dbea6f303381ff7c2b4
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // a96b01aa8a27cba629582b610cf9e4c3cc565904
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // de014d8917be40bd1e51ac1cfd6eaed69a7195b4
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 59b685cc447555a9b6a5cbfc8eb17763dc30eb5a
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // 5bc4312dc67a59b49a5d6982db06816e9e0c474e
+SearchUserLink : We are looking for nbaker in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //pentaho-nbaker//CodeOnCoffee. We gave that name to the commit, but didnt write it in UserLink
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker@5d404267-db13-0410-8476-b1f6b398e63a//nbaker//nbaker // a38d60335b0e213f1adf2ea86f6dc971e084a214
+Commits Finished 31
+Finished 10
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

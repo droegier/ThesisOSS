@@ -1,0 +1,19 @@
+<root populated-org-wiredtiger="done" populated-rep-dotfiles="done" populated-rep-faultinject="done"
+      populated-rep-jenkins-config="done" populated-rep-leveldb_wt="done" populated-rep-mongo-tests="done"
+      populated-rep-node-wiredtiger="done" populated-rep-wiredtiger="done" populated-rep-wiredtiger.github.com="done">
+    <user link="Alex Gorrod">agorrod</user>
+    <user link="Baptiste Lepers">BLepers</user>
+    <user link="Don Anderson">ddanderson</user>
+    <user link="Keith Bostic">keithbostic</user>
+    <user link="Michael Cahill">michaelcahill</user>
+    <user link="Alexandra (Sasha) Fedorova">fedorova</user>
+    <user link="David Hows">daveh86</user>
+    <user link="Thomas R&#252;ckstie&#223;">rueckstiess</user>
+    <user link="Mark Benvenuto">markbenvenuto</user>
+    <user link="Julien Balestra">JulienBalestra</user>
+    <user link="Quentin Conner">qconner</user>
+    <user link="Jonathan Reams">jbreams</user>
+    <user link="Andrew C. Morrow">acmorrow</user>
+    <user link="Esha Maharishi">EshaMaharishi</user>
+    <user link="Eliot Horowitz">erh</user>
+</root>

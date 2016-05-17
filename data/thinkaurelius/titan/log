@@ -1,0 +1,107 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : MMcM// Mike McMahon
+WriteUserLink : Adding a UserLink : vshchukin// Vasyl Shchukin
+WriteUserLink : Adding a UserLink : pdbeaman// Peter Beaman
+WriteUserLink : Adding a UserLink : twilmes// Ted Wilmes
+WriteUserLink : Adding a UserLink : BrynCooke// Bryn Cooke
+WriteUserLink : Adding a UserLink : bdeggleston// Blake Eggleston
+WriteUserLink : Adding a UserLink : DanielThomas// Danny Thomas
+WriteUserLink : Adding a UserLink : boorad// Brad Anderson
+WriteUserLink : Adding a UserLink : brennonyork// Brennon York
+WriteUserLink : Adding a UserLink : erickt// Erick Tryzelaar
+WriteUserLink : Adding a UserLink : crisweber// Cristofer
+WriteUserLink : Adding a UserLink : elubow// Eric Lubow
+WriteUserLink : Adding a UserLink : bellingard// Fabrice Bellingard
+WriteUserLink : Adding a UserLink : boliza// Ranger Tsao
+WriteUserLink : Adding a UserLink : PommeVerte// Dylan Millikin
+WriteUserLink : Adding a UserLink : achinthagunasekara// Achintha Gunasekara
+WriteUserLink : Adding a UserLink : avieth// Alexander Vieth
+WriteUserLink : Adding a UserLink : Astn// Austin Harris
+WriteUserLink : Adding a UserLink : haebin// Frederick Haebin Na
+WriteUserLink : Adding a UserLink : strongh// Homer Strong
+WriteUserLink : Adding a UserLink : pluradj// Jason Plurad
+WriteUserLink : Adding a UserLink : joeferner// Joe Ferner
+WriteUserLink : Adding a UserLink : mpouttuclarke// Matt Pouttu-Clarke
+WriteUserLink : Adding a UserLink : mikedias// Mike Dias
+SearchUserLink : We are looking for deiflaender in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : deiflaender
+WriteUserLink : Adding a UserLink : deiflaender// deiflaender
+SearchUserLink : We are looking for David Robinson in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress robinsda@us.ibm.com//David Robinson // 7181d969d170523ab94e96f8b9c53713a76ef0ad
+SearchUserLink : We are looking for David Robinson in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress robinsda@us.ibm.com//David Robinson // adecba18699dd69474ffbc4ca381ea52b7cee6fd
+SearchUserLink : We are looking for David Robinson in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress robinsda@us.ibm.com//David Robinson // 80de72c6398ed67d1d456713ba731a5a8cd3810c
+SearchUserLink : We are looking for David Robinson in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress robinsda@us.ibm.com//David Robinson // b245e15231c126ef9a38c84ff894f545a3511861
+SearchUserLink : We are looking for Nik Everett in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : nik9000
+WriteUserLink : Adding a UserLink : nik9000// Nik Everett
+SearchUserLink : We are looking for ksenji in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : ksenji
+WriteUserLink : Adding a UserLink : ksenji// ksenji
+SearchUserLink : We are looking for Solon Gordon in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+WriteUserLink : Adding a UserLink : solongordon// Solon Gordon
+SearchUserLink : We are looking for janar in GitHub... Now we go through the forks.
+SearchUserLink: Several possibilities were found  : //Janarthanam//janarthanamr//janarthanamr. We gave that name to the commit, but didnt write it in UserLink
+WriteUserLink : Adding a UserLink : Janarthanam// janar
+SearchUserLink : We are looking for Richard Doll in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : rdoll
+WriteUserLink : Adding a UserLink : rdoll// Richard Doll
+SearchUserLink : We are looking for Mark McCraw in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : mamccr
+WriteUserLink : Adding a UserLink : mamccr// Mark McCraw
+SearchUserLink : We are looking for Pieter in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Michael Klishin in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+WriteUserLink : Adding a UserLink : michaelklishin// Michael Klishin
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SearchUserLink : We are looking for Ted Crossman in GitHub... Now we go through the forks.
+SearchUserLink: we found a single hit : tedoc2000
+WriteUserLink : Adding a UserLink : tedoc2000// Ted Crossman
+ADDCOMMITS: this is strange double check it!!ab023fb7577a9b073bba017bb2c1cfbd58658110
+SearchUserLink : We are looking for Justin Corpron in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+WriteUserLink : Adding a UserLink : jncorpron// Justin Corpron
+SearchUserLink : We are looking for Bobby Norton in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses bobby@thinkaurelius.com//bobby@thinkaurelius.com//Bobby Norton//Bobby Norton // 1e6e5c2ca5a90c7969e69aeea10ed93ff4f94f8f
+SearchUserLink : We are looking for Bobby Norton in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses bobby@thinkaurelius.com//bobby@thinkaurelius.com//Bobby Norton//Bobby Norton // 6c4fd01e0dd5200b15a6019e1a1b4458f8eca868
+Commits Finished 148
+Finished 42
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMCOMMITS : donedone
+TRANSFORMISSUES : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Commits Finished 148
+Finished 44
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SearchUserLink : We are looking for Pieter in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+WriteUserLink : Adding a UserLink : PHameete// Pieter
+SearchUserLink : We are looking for okram in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses marko@markos-macbook.local//marko@markos-macbook.local//okram//okram // a9c737cf4703f2e650ad790c091d2a9000305000
+SearchUserLink : We are looking for Marko Rodriguez in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses marko@markos-macbook.local//marko@markos-macbook.local//Marko Rodriguez//Marko Rodriguez // cecbfd2250e212fe2c76313f5fa46faf0609344e
+Commits Finished 148
+Finished 44
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

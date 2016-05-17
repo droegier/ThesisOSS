@@ -1,0 +1,18 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SearchUserLink : We are looking for Richard Lister in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses rlister@gmail.com//rlister@gmail.com//Richard Lister//Richard Lister // 411379abf29fd534d58a1d47a70c9ce8389dd589
+SearchUserLink : We are looking for Richard Lister in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress rlister@gmail.com//Richard Lister // 03de37ca18c9d5ae8ad2db91371b00da88c7ad30
+SearchUserLink : We are looking for Richard Lister in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress rlister@gmail.com//Richard Lister // 10efb2784c33ee00a601085ae769547ae5edf7a6
+Commits Finished 2
+Finished 0
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

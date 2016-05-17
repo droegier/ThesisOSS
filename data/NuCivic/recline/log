@@ -1,0 +1,12 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SearchUserLink : We are looking for madmatter23 in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress madmatter23@455714.no-reply.drupal.org//madmatter23 // 53f975d1f6a4616f4f762927e54a7f4bf8948881
+SearchUserLink : We are looking for vagrant in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses vagrant@precise32.(none)//vagrant@precise32.(none)//vagrant//vagrant // 33ea5cb1022a7abfb577165dbf05949b70e83f11
+Commits Finished 5
+Finished 2
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

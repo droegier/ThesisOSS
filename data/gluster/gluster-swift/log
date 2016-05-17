@@ -1,0 +1,192 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : portante// Peter Portante
+WriteUserLink : Adding a UserLink : thiagodasilva// Thiago da Silva
+WriteUserLink : Adding a UserLink : prashanthpai// Prashanth Pai
+WriteUserLink : Adding a UserLink : zaitcev// Pete Zaitcev
+WriteUserLink : Adding a UserLink : awheeler// Alex Wheeler
+WriteUserLink : Adding a UserLink : arcimboldo// Antonio Messina
+WriteUserLink : Adding a UserLink : ajarr// Ramana Raja
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // 3ee9a70402764f21dbea387aa75d81999b224beb
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Pushpesh Sharma in GitHub... Now we go through the forks.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // b6a6621ded41fb56c1a2797d9590a79f14d4c1f4
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Pushpesh Sharma in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email crisbud@redhat.com//Chetan Risbud // ec2c548af9067e73e9e6c6a34a1438a3ff7e94a2
+SearchUserLink : We are looking for Pushpesh Sharma in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email psharma@redhat.com//Pushpesh Sharma // ec2c548af9067e73e9e6c6a34a1438a3ff7e94a2
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress psharma@redhat.com//Pushpesh Sharma // b27b46ee6ffa3be55393dfa5c4cfc55d24a4ef31
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress psharma@redhat.com//Pushpesh Sharma // 3f18f021bd83bb63639c621e0650eace062f463f
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses crisbud@redhat.com//crisbud@redhat.com//Chetan Risbud//Chetan Risbud // 03128e172e0242eba396e8487bdd8d6b0da52db3
+SearchUserLink : We are looking for Pushpesh Sharma in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Pushpesh Sharma in GitHub... Now we go through the forks.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress psharma@redhat.com//Pushpesh Sharma // 577ccbccd2e2464365ab89e20bd35db60375caf1
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress psharma@redhat.com//Pushpesh Sharma // 1f432663badbee97543d92dd68fc196b169a938d
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // d65cee2e3bd2fb0fbf49f6a4d55a1480c915278f
+SearchUserLink : We are looking for Pushpesh Sharma in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress psharma@redhat.com//Pushpesh Sharma // 22d8dffb366fc46b6810e068a771e3948fd89a3c
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Pushpesh Sharma in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email crisbud@redhat.com//Chetan Risbud // 6f4a88cbcd6389af4baebe7759b773de2cd856c7
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email psharma@redhat.com//Pushpesh Sharma // 6f4a88cbcd6389af4baebe7759b773de2cd856c7
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // 4b988ce3c598c8b59bd0ce77ab7854291c66549f
+SearchUserLink : We are looking for Pushpesh Sharma in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress psharma@redhat.com//Pushpesh Sharma // 810b399d243c05343d8fd24b5fb597e2abe4cd61
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // b00a99673233b8fe0a93c6f9095b435cb2569330
+SearchUserLink : We are looking for Pushpesh Sharma in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress psharma@redhat.com//Pushpesh Sharma // 52e9fed8735a6eea3f56453da33313ec4f625d0b
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // 8737f9e92a5c9dbf0d75e0702c7ab48f287f2761
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // 2014cdb9066e273cf791f38b1c8247427c76cfa9
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // 2505d8281593730d8b31794d0fe8132417c34a48
+SearchUserLink : We are looking for Pushpesh Sharma in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress psharma@redhat.com//Pushpesh Sharma // 331bc6ce85cf46a26f39634924ac0f49bd2a149f
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses crisbud@redhat.com//crisbud@redhat.com//Chetan Risbud//Chetan Risbud // 1a6b55714fddf7a1b526a31ee3f27589f01e98e5
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses crisbud@redhat.com//crisbud@redhat.com//Chetan Risbud//Chetan Risbud // 47cbf09a228040ea33918a472481f464ef9ad261
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // 11e2be75faa5af4f5c724c61447559693cd05b7f
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // 4023c7277ffb79df7021742143f403cd415047e8
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // d5ebf36f7e9268b68b2e8d5b737f8252c5296e1a
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // fc8d5eb1dd67dbba3c9ced8caf7561be0e7d78e6
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses crisbud@redhat.com//crisbud@redhat.com//Chetan Risbud//Chetan Risbud // 5a0e9a3713b49e9f9fbb83f80986ec0b98a27f80
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // ad6fb3558019e0f65de0b36c2c2f78d94925838c
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // cc97abca0482d3023c9d2fa9d0028098d08e818b
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // 027951c1022739a8d53379048349ac2391763d6b
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // c7ce3beec168cfc530da9e8d11fc1a0e8c80bcce
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 12f7a3b0de56b9da33f11183b1f046b511ab5073
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // ee972086c2a2330a8d1024402f5d54091d9bbdef
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // a71ab7b9b7c672ab3a41fc6d57532081490f9462
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 3a8c35fc2451bcef0e2dc6f651fc0bc1334bc753
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // b1919bd79429c8b66ea8be8b62df8491ab01254b
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 08b7da19a3e5c261776b8c2c5d9af08fb459c0d3
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // 7ef1581a074757b05fc8f3235a558d10e990dce4
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 3c0cdd74ec1d8df3e452a6653f20bad6252b971c
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 9d520a05baf91cdbed17e31a15dcbce0d35191d0
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // f8d876248d29fa7f4857ac8ca02324795ba53353
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 44182fa87f5f499aa7c2876ee0f0c5a84afd12a9
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 287a52aa098427fd87fb8a81fd735f14c4714a85
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 13959e281704d30f6e7762bdd490cdf3bf31bdff
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // ce614363d636385ccfaf92fc4b36c087a06b9fff
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // d6c287ab8cdc9b8f4a5c7f03ec0661c9155defd9
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // 7575c3cc0150ac9440b21da3c82aba677497618a
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 55389b74c7a50d162ef95e07a562575e78e9b888
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // cfb17e86592890701b9b18cfef35503f564df79c
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 1e7b5f57aa9a69b3f325bdb1e01cb0bad597c371
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 3fb376dac2aed1c3f87d15bf98db47c322a0d303
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 775492b49fc4e0e7a6103c9c1995116946aa113c
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // d3aa222c5c2b62f1dfd325830d5c4a5cfd75a8e7
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // f59e2c6f286155745c4fb5ad294bfa4b6ca9406c
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // e625cc40ff7ce5a4155abf39cf40dacd61deaee2
+SearchUserLink : We are looking for Mohammed Junaid in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress junaid@redhat.com//Mohammed Junaid // 0eed5dd23439bd9c770a675dbfd12c1353f9a29f
+SearchUserLink : We are looking for Gerrit Code Review in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress review@dev.gluster.org//Gerrit Code Review // 3303443f970066b52b95d5476fecc2d290a0b868
+Commits Finished 9
+Finished 1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

@@ -1,0 +1,16 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : clasohm// Carsten Clasohm
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // d5fe1795d40db8c61c0c84d29a8131600e0986bb
+SearchUserLink : We are looking for Chetan Risbud in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress crisbud@redhat.com//Chetan Risbud // 2f9e3120bbd7ef6b7459fccb5b740b6542b13c57
+Commits Finished 1
+Finished 0
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

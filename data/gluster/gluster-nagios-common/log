@@ -1,0 +1,220 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : nthomas-redhat// Nishanth Thomas
+WriteUserLink : Adding a UserLink : kmkanagaraj// Kanagaraj M
+USERLINK ERROR : CONFLICT DETECTED IN USERS TimothyAsirJeyasing// Timothy Asir
+WriteUserLink : Adding a UserLink : dpmramesh// Ramesh
+WriteUserLink : Adding a UserLink : humblec// Humble Devassy Chirammal
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // 92af01d26b460381835163113b3750573bd29824
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Shubhendu Tripathi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // fc90d056a6840739dd774954afbdf2d82375e858
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email shtripat@redhat.com//Shubhendu Tripathi // fc90d056a6840739dd774954afbdf2d82375e858
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // 92ed869d5979ee6f1c83a39517805841f96d19fd
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Shubhendu Tripathi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // 446c43a73be31baa3a2adaef0a198fc50c18a9f9
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // b6c5c9910ca136b5a5e720cdbabf8dd0a5ef6cd7
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email shtripat@redhat.com//Shubhendu Tripathi // b6c5c9910ca136b5a5e720cdbabf8dd0a5ef6cd7
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Shubhendu Tripathi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress sabose@redhat.com//Sahina Bose // dd356c110210350721b003e885c51046b87c7186
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // eaf3d4136d6dd1ef00a7cef23f9338b03783dd43
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email shtripat@redhat.com//Shubhendu Tripathi // eaf3d4136d6dd1ef00a7cef23f9338b03783dd43
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Shubhendu Tripathi in GitHub... Now we go through the forks.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress sabose@redhat.com//Sahina Bose // 12507aeef9be103e4393451233da7ba8a8ebb2ee
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // 2873ff21e4f99b35ab88595a96c0ee45c83d26c3
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email shtripat@redhat.com//Shubhendu Tripathi // 2873ff21e4f99b35ab88595a96c0ee45c83d26c3
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // 481d99ef5f541b4e1eb30d4f630c890609a1c05e
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // 2132a0f6927275e76c5e55069acc3e8314567475
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress barumuga@redhat.com//Bala.FA // ea28af4f36370506a76a5ae4fbd56990dd49c71a
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Shubhendu Tripathi in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // f6934b13b3706c810bdff311b15a2d33ad22a29a
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // 023d7af3e313f4154a869d5e67e792fde3bd273f
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email shtripat@redhat.com//Shubhendu Tripathi // 023d7af3e313f4154a869d5e67e792fde3bd273f
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress sabose@redhat.com//Sahina Bose // 1ee32cb06834ebb80d548ef4039b9e40f928900e
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // 7750d910bb7047c0c24f2e93dd302a445b5068ec
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email sabose@redhat.com//Sahina Bose // 7750d910bb7047c0c24f2e93dd302a445b5068ec
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // 76803ac0ceb8335ca24ace1505b30d485fa2f066
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses barumuga@redhat.com//barumuga@redhat.com//Bala.FA//Bala.FA // 576d7248699f8017f2909f548ef80df7217b57a4
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // 20b71f551651491e7001ee4b89c340196dc6c204
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses barumuga@redhat.com//barumuga@redhat.com//Bala.FA//Bala.FA // 3ddcde1155b6c278d7775f52e9197bff47ff37d1
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // 94ce627a6a2eb58d172d8af51b7eced6bae4c18f
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // 13948635feb101ea64d1e19e9af89e96badb34e6
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // 12171f154d5c6d2ee5fd23b7439770f0b51d39fb
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress sabose@redhat.com//Sahina Bose // 2b35b6649b5af2d4d4296612f1c711bddcdf7930
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress sabose@redhat.com//Sahina Bose // 5726854fb2954740d5c7d742a5ad4947cb78532c
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses barumuga@redhat.com//barumuga@redhat.com//Bala.FA//Bala.FA // 1b8e982332b81644c3dc90d0fa3367dd4ff6f53c
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress sabose@redhat.com//Sahina Bose // 63f7ffadb466d914bd67d74bbde495e75367cfdb
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses barumuga@redhat.com//barumuga@redhat.com//Bala.FA//Bala.FA // 8f5f4537af7790be386974628c804a7bc719b738
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Gerrit Code Review in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress sabose@redhat.com//Sahina Bose // 7dde70e063024c4b8d915697c9d0381704523afc
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress sabose@redhat.com//Sahina Bose // 65866b02ec24083f0206922b08dee3b26382a1be
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses sabose@redhat.com//sabose@redhat.com//Sahina Bose//Sahina Bose // cbfd13c455f89043d8782f86ae7c1832fe84e0b5
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Shubhendu Tripathi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // 1634fd3ab1b9e6fca134b434d2bfafcc629d8782
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email shtripat@redhat.com//Shubhendu Tripathi // 1634fd3ab1b9e6fca134b434d2bfafcc629d8782
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress review@dev.gluster.org//Gerrit Code Review // 79b4c3e202e0ce07d13d28b88f04c4dc79edfb12
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // b0688de9a2c282763275a47d85fc17b31b5c9848
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email sabose@redhat.com//Sahina Bose // b0688de9a2c282763275a47d85fc17b31b5c9848
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress barumuga@redhat.com//Bala.FA // a8a9f59b7c45f1ddc6692ac94ed13ec303484366
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress barumuga@redhat.com//Bala.FA // 62a32a2a82abc880d9374ce446dba971849ed8e1
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // d8a700fae2a92e8f447e9fa64844028a7cfc56e9
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email sabose@redhat.com//Sahina Bose // d8a700fae2a92e8f447e9fa64844028a7cfc56e9
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress barumuga@redhat.com//Bala.FA // 5628129026c62699025f3ba13b16f442b267aa0f
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Sahina Bose in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // fdcfd605a72fb3c13ddade5dfed4275c929afff5
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email sabose@redhat.com//Sahina Bose // fdcfd605a72fb3c13ddade5dfed4275c929afff5
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Shubhendu Tripathi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // 38049d133273d0735b8eeb470d3ac08f2f90dd17
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email shtripat@redhat.com//Shubhendu Tripathi // 38049d133273d0735b8eeb470d3ac08f2f90dd17
+SearchUserLink : We are looking for Bala.FA in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Shubhendu Tripathi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email barumuga@redhat.com//Bala.FA // 935996d152a87a2b27d2b43f85f3bca710a4e555
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email shtripat@redhat.com//Shubhendu Tripathi // 935996d152a87a2b27d2b43f85f3bca710a4e555
+Commits Finished 2
+Finished 0
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

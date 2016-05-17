@@ -1,1 +1,29 @@
-Placeholder
+#The OSS startup acquisition & its effect on community dynamics.
+
+This script serves as a tool for the master thesis of David Roegiers on Open Source Software at the chair of Strategic
+Management and Innovation at the ETH Zurich. To grasp a better understanding of the context, I refer the reader to the
+final report, that can be found under /report/final.pdf
+
+The goal of this script is to collect organisations and repositories on GitHub and transform the development activities
+to such an extent that the data can be used for statistical analysis.
+
+For an understanding of how the classes and methods work, we advise the reader to go through the calls and comments
+in the 'main.py'-file.
+
+REMARK1 : The accompanied code has been written using Python 2.7.10
+REMARK2 : This code uses the external package PyGitHub version 1.26.0
+Please, first install the library on your device (http://pygithub.github.io/PyGithub/v1/introduction.html).
+REMARK3 : This script is licensed under LGPL. I copy-lefted this from PyGithub, although it may not even be necessary.
+
+We look at several development actions, the corresponding title used in the script is given in brackets.
+
+Code Contribution - (commit)
+Code Review - (merger)
+Pull Request - (pullrequest)
+Issue Creation - (issue)
+Comments - (comment)
+
+Technical Contributions are Code Contributions and Code Review (commit & merger)
+Non-echnical Contributions are Pull Request, Issue Creation, and Comments (pullrequest, issue, & comment)
+
+For an explanation of those we refer to the final report, which is included.

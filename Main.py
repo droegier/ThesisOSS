@@ -39,15 +39,9 @@ def gatherData(org):
 
 if __name__ == '__main__':
 
-    # These lists are used to store dummy accounts in order to access the GitHub API (the 3 accounts given are active)
+    # These lists are used to store dummy accounts in order to access the GitHub API (the 4 given accounts are active)
     logins = ['ghapinamufassa3', 'ghapinamufassa1', 'ghapinamufassa2', 'ghapinamufassa4']
     passwords = ['Runyoufools1', 'Runyoufools1', 'Runyoufools1', 'Runyoufools1']
-
-    rep = Repository.Repository('ansible', 'ansible', logins, passwords)
-    rep.identifyParticipants()
-    rep.activityStats(True)
-
-    exit()
 
     # Exemplum gratis
 

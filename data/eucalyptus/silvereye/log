@@ -1,0 +1,22 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SearchUserLink : We are looking for silvereye in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress silvereye@localhost.localdomain//silvereye // 97ef2afe3daa61c42c8657f2f04989a00b704366
+SearchUserLink : We are looking for jenkins in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress jenkins@ip-172-17-41-138.(none)//jenkins // 8cac63e66a427a4659d55e5dacf8d3dc9e077c0d
+SearchUserLink : We are looking for ec2-user in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress ec2-user@i.(none)//ec2-user // 5a0aa81ffd2f30da88437cec32649589e6485993
+Commits Finished 9
+Finished 1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

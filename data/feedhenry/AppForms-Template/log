@@ -1,0 +1,24 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SearchUserLink : We are looking for psdev.dev@example.com in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses psdev.dev@example.com//psdev.dev@example.com//psdev.dev@example.com//psdev.dev@example.com // f35ffa5862486283d7e7eb9c7056b94ab9106532
+SearchUserLink : We are looking for psdev.dev@example.com in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses psdev.dev@example.com//psdev.dev@example.com//psdev.dev@example.com//psdev.dev@example.com // 7e8664d7b63c592c8181ede306b1e67370f45630
+SearchUserLink : We are looking for mhw.dev@example.com in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+WriteUserLink : Adding a UserLink : wei-lee// mhw.dev@example.com
+Commits Finished 38
+Finished 2
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMCOMMITS : donedone
+TRANSFORMISSUES : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

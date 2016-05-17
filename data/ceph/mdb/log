@@ -1,0 +1,53 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : hfuru// Hallvard Furuseth
+WriteUserLink : Adding a UserLink : leo-yuriev// Leonid Yuriev
+WriteUserLink : Adding a UserLink : salortiz// Salvador Ortiz
+WriteUserLink : Adding a UserLink : runaum// Alexey Naumov
+WriteUserLink : Adding a UserLink : dmbarbour// David Barbour
+WriteUserLink : Adding a UserLink : dw// dw
+WriteUserLink : Adding a UserLink : jcdubois// Jean-Christophe DUBOIS
+WriteUserLink : Adding a UserLink : jahewson// John Hewson
+WriteUserLink : Adding a UserLink : quanah// Quanah Gibson-Mount
+SearchUserLink : We are looking for Claude Brisson in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress claude.brisson@gmail.com//Claude Brisson // 18a07eb7c2dc33372455a6040984cd6b699b41a5
+SearchUserLink : We are looking for Claude Brisson in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress claude.brisson@gmail.com//Claude Brisson // 372b3ddb85bef953fb548fbf2b9ef0cba4e3c8ed
+SearchUserLink : We are looking for Claude Brisson in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress claude.brisson@gmail.com//Claude Brisson // bbb27cde4af7d9f60ca77b4b0caea4b6237ed289
+SearchUserLink : We are looking for Ondrej Kuznik in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress ondrej.kuznik@acision.com//Ondrej Kuznik // bd92b570a8a3389a5e6bd86abcce2722919f8363
+SearchUserLink : We are looking for Chris Mikkelson in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress cmikk@qwest.net//Chris Mikkelson // 46cf44270000eb17297b804121f9721932ba182b
+SearchUserLink : We are looking for Chris Mikkelson in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress cmikk@qwest.net//Chris Mikkelson // 9f983b7999e380300ba83156f21b15d33fe2e680
+SearchUserLink : We are looking for Kurt Zeilenga in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress kurt.zeilenga@isode.com//Kurt Zeilenga // 81afbb2fca0effc3637c88ce03935b6b3f5eca47
+WriteUserLink : Adding a UserLink : hyc// Howard Chu
+SearchUserLink : We are looking for Howard Chu in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses highlandsun@gmail.com//highlandsun@gmail.com//Howard Chu//Howard Chu // 70c79df1dfd70e90a4c18d3d9710a3b01be011b2
+Commits Finished 31
+Finished 1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

@@ -1,0 +1,61 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : aldavud// David Gurtner
+WriteUserLink : Adding a UserLink : spjmurray// Simon
+WriteUserLink : Adding a UserLink : pruvosim// Simon Pruvost
+WriteUserLink : Adding a UserLink : tobru// Tobias Brunner
+WriteUserLink : Adding a UserLink : DeGuitard// Vianney Dupoy de Guitard
+WriteUserLink : Adding a UserLink : strider// Gaël Chamoulaud
+WriteUserLink : Adding a UserLink : Totonyus// Totonyus
+WriteUserLink : Adding a UserLink : gfidente// Giulio Fidente
+WriteUserLink : Adding a UserLink : bkero// Ben Kero
+WriteUserLink : Adding a UserLink : dvorak// Clayton O'Neill
+WriteUserLink : Adding a UserLink : bodepd// Dan Bode
+WriteUserLink : Adding a UserLink : degorenko// Denis Egorenko
+WriteUserLink : Adding a UserLink : mwhahaha// Alex Schultz
+WriteUserLink : Adding a UserLink : Whazaby// Ruscassie
+WriteUserLink : Adding a UserLink : fungi// Jeremy Stanley
+WriteUserLink : Adding a UserLink : pernotjln// Julien Pernot
+WriteUserLink : Adding a UserLink : Waowam// Jérémy Pinto
+WriteUserLink : Adding a UserLink : mpedoussaut// Mathieu Pédoussaut
+WriteUserLink : Adding a UserLink : matthewfischer// Matt Fischer
+WriteUserLink : Adding a UserLink : emonty// Monty Taylor
+WriteUserLink : Adding a UserLink : Mosibi// Richard Arends
+SearchUserLink : We are looking for Gaudenz Steinlin in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses gaudenz.steinlin@cirrax.com//gaudenz.steinlin@cirrax.com//Gaudenz Steinlin//Gaudenz Steinlin // 5522be54cbba1e356fd1d46f34170bacc1b3da1b
+SearchUserLink : We are looking for Baillagou Florian in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress florian.baillagou@gmail.com//Baillagou Florian // 8d1e1236941884395f3fcd2230bc5161db246b4d
+SearchUserLink : We are looking for Thierno Baldé in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses raybalde110@yahoo.fr//raybalde110@yahoo.fr//Thierno Baldé//Thierno Baldé // de7b5a14f490f137dcea4179890c640761e2aa4e
+SearchUserLink : We are looking for Baillagou Florian in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses florian.baillagou@gmail.com//florian.baillagou@gmail.com//Baillagou Florian//Baillagou Florian // b70e93263f14bb36244503aa28823e62c2316635
+SearchUserLink : We are looking for autaa in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Guillaume Sainthillier in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses fr.autaa@yahoo.fr//fr.autaa@yahoo.fr//autaa//Autaa Francois // 224d17a4fe1aa8b629b81179eb3ca5275007b96f
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses guillaume@sainthillier.fr//guillaume@sainthillier.fr//Guillaume Sainthillier//Guillaume Sainthillier // 8f1fb2569db509797beb72c0e235fabd7193f430
+SearchUserLink : We are looking for th0rnspear in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress th0rnspear@yopmail.com//th0rnspear // 8f9dfd6681c515fe86d15918aa0448937272a2e5
+Commits Finished 8
+Finished 1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

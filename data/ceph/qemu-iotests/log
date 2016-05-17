@@ -1,0 +1,264 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : lmr// Lucas Meneghel Rodrigues
+WriteUserLink : Adding a UserLink : kazum// MORITA Kazutaka
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress hch@lst.de//Christoph Hellwig // 4e1cfca61e977bb34eeb7978db596fce15282cf7
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress hch@lst.de//Christoph Hellwig // 1dfbf5d8c43e85bc0da1fc7e7cd9eab1ff61b85d
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // d8a3bc04a6b3e39ea4ef4139a253a43f271b7cfa
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // d8a3bc04a6b3e39ea4ef4139a253a43f271b7cfa
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 75adf62a2a2b06dfeffab8136e33ba758398314b
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 75adf62a2a2b06dfeffab8136e33ba758398314b
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 29995f528b5ee1cd037ce7c1feed600740e6f638
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 29995f528b5ee1cd037ce7c1feed600740e6f638
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // ca3fd1d9dd9d74b87f13284d163c5b3885585a22
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // ca3fd1d9dd9d74b87f13284d163c5b3885585a22
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 7859f3e30a56c9771992804a6d1d776298611f00
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Hajnoczi in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 7859f3e30a56c9771992804a6d1d776298611f00
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 62e1238663e8f73e702da96092123f4fd8d47e51
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hch@lst.de//hch@lst.de//Christoph Hellwig//Christoph Hellwig // bd4acf125cf1ca9bdd2891c5df3cc09964c537e2
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email stefanha@linux.vnet.ibm.com//Stefan Hajnoczi // 62e1238663e8f73e702da96092123f4fd8d47e51
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hch@lst.de//hch@lst.de//Christoph Hellwig//Christoph Hellwig // 9febb8861173a70ddebb7ac0a5976098b53059c1
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress hch@lst.de//Christoph Hellwig // 5aabfa48ecf4266804801e2a1aee14cfdb9c8d5c
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress hch@lst.de//Christoph Hellwig // 09f19206f53d46ebb1313c677b20118a80dfda9e
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hch@lst.de//hch@lst.de//Christoph Hellwig//Christoph Hellwig // 26e25ac229d606463de4c197a188a83d3e1f4de1
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Hajnoczi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 0aeddea9e9fd384ea7c96bc1a45be1c20f5f96f9
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 0aeddea9e9fd384ea7c96bc1a45be1c20f5f96f9
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // e723497ccb2be48f405999fc252e997e4950e6e7
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email stefanha@linux.vnet.ibm.com//Stefan Hajnoczi // e723497ccb2be48f405999fc252e997e4950e6e7
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found author, but not committer, so for that one we used the e-mailaddress hch@lst.de//Christoph Hellwig // 0a55cd61948190aa23b904102cee56f31754051a
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Hajnoczi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 084e5244896ba0df400e71865f74947f0366c61d
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 084e5244896ba0df400e71865f74947f0366c61d
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // f42c8922b59484330f37f36c9be4c8fdec625769
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // f42c8922b59484330f37f36c9be4c8fdec625769
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Hajnoczi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 1b270af788cf387c81f35f553148e0ae0596b260
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email stefanha@linux.vnet.ibm.com//Stefan Hajnoczi // 1b270af788cf387c81f35f553148e0ae0596b260
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Weil in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 59362b464171a05a2c8d485722a269fa479747b2
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 59362b464171a05a2c8d485722a269fa479747b2
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 0e13fe7b8db1b1748404ee576f3fd127aae87a55
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hch@lst.de//hch@lst.de//Christoph Hellwig//Christoph Hellwig // dac51d471869ab7e56c23d128d429e147114814d
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email weil@mail.berlios.de//Stefan Weil // 0e13fe7b8db1b1748404ee576f3fd127aae87a55
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Weil in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Hajnoczi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 6d417ab6298d56e0e6f9faa83e885acbbf8b4d01
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email stefanha@linux.vnet.ibm.com//Stefan Hajnoczi // 6d417ab6298d56e0e6f9faa83e885acbbf8b4d01
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // bf77099a893b6945bf089d9a5aba7cccc2c7e89c
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email weil@mail.berlios.de//Stefan Weil // bf77099a893b6945bf089d9a5aba7cccc2c7e89c
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hch@lst.de//hch@lst.de//Christoph Hellwig//Christoph Hellwig // 4322531ca3d936939dddd07c442a3d64e0f68008
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hch@lst.de//hch@lst.de//Christoph Hellwig//Christoph Hellwig // 791f8515b5cb6dea25228f75e0886e726e7ff2ee
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hch@lst.de//hch@lst.de//Christoph Hellwig//Christoph Hellwig // fa27d3094a104ced6d5e8ca0aa341028e03179f4
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hch@lst.de//hch@lst.de//Christoph Hellwig//Christoph Hellwig // 5356cea250da9dce18a5261a2ecdee8413296a36
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 37834e14d9ff8a67da0fe8640cb2849cec2d9a39
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 37834e14d9ff8a67da0fe8640cb2849cec2d9a39
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 97309da98216c753db1512cffbd16ab8964ac252
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 97309da98216c753db1512cffbd16ab8964ac252
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // aa86238477f018c6283884dc8427220b87db92a6
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // aa86238477f018c6283884dc8427220b87db92a6
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hch@lst.de//hch@lst.de//Christoph Hellwig//Christoph Hellwig // 8b9a81d9670936382cd8eb2a4b2c9b61acc25be2
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are the same, but no resolve, so for that one we used the two e-mailaddresses hch@brick.lst.de//hch@brick.lst.de//Christoph Hellwig//Christoph Hellwig // 4fbcf2a3b92b86d2a847c212b320d6adc1cdfcc5
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Hajnoczi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // dbaaff0198dec8ece7faeb0fdfaf414317613b5d
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email stefanha@linux.vnet.ibm.com//Stefan Hajnoczi // dbaaff0198dec8ece7faeb0fdfaf414317613b5d
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Hajnoczi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // cddd362f5a9d03b6be7ef61c6556c125389fea96
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email stefanha@linux.vnet.ibm.com//Stefan Hajnoczi // cddd362f5a9d03b6be7ef61c6556c125389fea96
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 836c1122166d9e63563ad846d8d3a8b0ab48e5be
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 836c1122166d9e63563ad846d8d3a8b0ab48e5be
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 71592f4be0300c66584e41a7e0f132f04ed0da39
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 71592f4be0300c66584e41a7e0f132f04ed0da39
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // b18b075b5a6d31f48e6356705fd13e4d6036cafc
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // b18b075b5a6d31f48e6356705fd13e4d6036cafc
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 220edc0def4804537ba43df9165c5cbc85bbae2f
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 220edc0def4804537ba43df9165c5cbc85bbae2f
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Hajnoczi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // d66170edf9a43929ddb7af3b14e404b309df8d08
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email stefanha@linux.vnet.ibm.com//Stefan Hajnoczi // d66170edf9a43929ddb7af3b14e404b309df8d08
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Hajnoczi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 3e991a528191937a3665d04bc8f6eba50b635ff5
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email stefanha@linux.vnet.ibm.com//Stefan Hajnoczi // 3e991a528191937a3665d04bc8f6eba50b635ff5
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 116f686d17dd4bade2d5a2bf533ed3b53bc0f5be
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 116f686d17dd4bade2d5a2bf533ed3b53bc0f5be
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 20fd5d7137c384a10c5b3da4d6bdf619d4561c1e
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // 20fd5d7137c384a10c5b3da4d6bdf619d4561c1e
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // b86994fbb0eb48b7ce3ad06b90d0da0c5af428ad
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // b86994fbb0eb48b7ce3ad06b90d0da0c5af428ad
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Kevin Wolf in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // cbf9332efd04e02c488f96bf358c70c68ebee865
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email kwolf@redhat.com//Kevin Wolf // cbf9332efd04e02c488f96bf358c70c68ebee865
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Stefan Weil in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: According to git author and committer are not the same, no resolve for committer so we use email hch@lst.de//Christoph Hellwig // 3b220fb056de8d67acd58be9bfa200970fede050
+ADDCOMMITS: According to git author and committer are not the same, no resolve for author so we use email weil@mail.berlios.de//Stefan Weil // 3b220fb056de8d67acd58be9bfa200970fede050
+Commits Finished 2
+Finished 0
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

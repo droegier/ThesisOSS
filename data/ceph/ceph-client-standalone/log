@@ -1,0 +1,94 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WriteUserLink : Adding a UserLink : error27// Dan Carpenter
+WriteUserLink : Adding a UserLink : htejun// Tejun Heo
+WriteUserLink : Adding a UserLink : kvaneesh// Aneesh Kumar K.V
+WriteUserLink : Adding a UserLink : crquan// Derek
+WriteUserLink : Adding a UserLink : Gelma// Andrea Gelmini
+WriteUserLink : Adding a UserLink : jeffmahoney// Jeff Mahoney
+WriteUserLink : Adding a UserLink : jjuhl// Jesper Juhl
+WriteUserLink : Adding a UserLink : mkozlowski// Mariusz Kozlowski
+WriteUserLink : Adding a UserLink : rpjday// Robert P. J. Day
+WriteUserLink : Adding a UserLink : tklauser// Tobias Klauser
+WriteUserLink : Adding a UserLink : Tdent48227// Tracey Dent
+WriteUserLink : Adding a UserLink : segoon// Vasiliy Kulikov
+WriteUserLink : Adding a UserLink : fengguang// Fengguang Wu
+SearchUserLink : We are looking for Nick Piggin in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress npiggin@kernel.dk//Nick Piggin // 43714a363c28ccf58b67882b8fbbbc1fc7b4b9a6
+SearchUserLink : We are looking for Eric Dumazet in GitHub... Now we go through the forks.
+SearchUserLink : We are looking for Nick Piggin in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress eric.dumazet@gmail.com//Eric Dumazet // 92b7ff7f9d2c9c0a8a82ab4d540ff4f1699f6e0a
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress npiggin@kernel.dk//Nick Piggin // 5d92a310ef0c4b00432c2a89845f8c1ddab6beba
+SearchUserLink : We are looking for Nick Piggin in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress npiggin@kernel.dk//Nick Piggin // 90bddd75f3769eabe2a734c676f89b79bc807120
+SearchUserLink : We are looking for Nick Piggin in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress npiggin@kernel.dk//Nick Piggin // decc048dbc8bc0ab1b25cc0fbb88db6858d043e7
+SearchUserLink : We are looking for Nick Piggin in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress npiggin@kernel.dk//Nick Piggin // b3a5166a746733c2753fe0c490fe6cce06b4c58a
+SearchUserLink : We are looking for Nick Piggin in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress npiggin@kernel.dk//Nick Piggin // 42ed16f13749f6f1a2f1ed49497edff0ffb0bcfd
+SearchUserLink : We are looking for Nick Piggin in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress npiggin@kernel.dk//Nick Piggin // 4064939f620f4c9408bacf119b857d1cc521fc0d
+SearchUserLink : We are looking for Nick Piggin in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Al Viro in GitHub... Now we go through the forks.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress npiggin@kernel.dk//Nick Piggin // 6dbcf59645a9e9f61375eb19f37cd723d6abc0ce
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress viro@zeniv.linux.org.uk//Al Viro // 4fd4ebc2e4a1e4b9476357d9da217689f4ce2079
+SearchUserLink : We are looking for Al Viro in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress viro@zeniv.linux.org.uk//Al Viro // ff8a8d2006dca58f71b5dc5df0c95b8f837a0a4e
+SearchUserLink : We are looking for Alan Cox in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress alan@linux.intel.com//Alan Cox // ee24f77c9f3b134e818176d64e3856beb6e5a77b
+SearchUserLink : We are looking for Randy Dunlap in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress randy.dunlap@oracle.com//Randy Dunlap // 48922db217a30edbc1e59815636d06ebfe4754c5
+SearchUserLink : We are looking for Michael Rubin in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress mrubin@google.com//Michael Rubin // b29646ac8509248f49a727a54757e88411fbdade
+SearchUserLink : We are looking for Huang Weiyi in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress weiyi.huang@gmail.com//Huang Weiyi // 18a5a79d494875f5a22e1eccfdeec3ccafa7ccb0
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress hch@lst.de//Christoph Hellwig // d957a4350aa9f7e9f319ed8cfbbe92503f44298f
+SearchUserLink : We are looking for Christoph Hellwig in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress hch@lst.de//Christoph Hellwig // 91825c4a3a88dbefe1710d70e07963a3c98f18a7
+SearchUserLink : We are looking for Al Viro in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress viro@zeniv.linux.org.uk//Al Viro // 552932ba7e7d8db4b717220bfa7207ec9e1cdf45
+SearchUserLink : We are looking for Stephen Rothwell in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress sfr@canb.auug.org.au//Stephen Rothwell // 540d4a5b616a19a89738dbd2eba0811f44827492
+SearchUserLink : We are looking for Stephen Rothwell in GitHub... Now we go through the forks.
+SearchUserLink: no result ... back to main function.
+ADDCOMMITS: Found committer, but not author, so for that one we used the e-mailaddress sfr@canb.auug.org.au//Stephen Rothwell // 18c39f3097dae3955bbdbe042cee5b06b42eefdb
+Commits Finished 21
+Finished 0
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSFORMISSUES : donedone
+TRANSFORMCOMMITS : donedone

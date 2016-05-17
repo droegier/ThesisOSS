@@ -27,3 +27,9 @@ Comments - (comment)
 Technical Contributions are Code Contributions and Code Review (commit & merger)
 Non-echnical Contributions are Pull Request, Issue Creation, and Comments (pullrequest, issue, & comment)
 
+Propositions for improvement:
+- Redesign the class structure, make them inherited.
+- Find the optimal number of dummy accounts (weight between API speed and multi-thread memory locking).
+- Test the validity of the GitHub account selection heuristics.
+- Look into OSS libraries for data analysis inside Python.
+- See if integration with GHTorrent is interesting to speed up data collection.

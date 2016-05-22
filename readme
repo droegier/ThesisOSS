@@ -2,7 +2,7 @@
 
 This script serves as a tool for the master thesis of David Roegiers on Open Source Software at the chair of Strategic
 Management and Innovation at the ETH Zurich. To grasp a better understanding of the context, I refer the reader to the
-final report, that can be found under /report/final.pdf
+final report, that can be found under 'Master Thesis David Roegiers.pdf'
 
 The goal of this script is to collect organisations and repositories on GitHub and transform the development activities
 to such an extent that the data can be used for statistical analysis in R.
